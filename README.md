@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Alan-Viana/Alan-Viana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alan Viana
+### Junior Front-End Developer | Bacharelando em TI @ UNIVESP
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/alan-viana-3656221b2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alan-Viana" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Sobre mim
+
+Bacharelando em **Tecnologia da Informação pela UNIVESP** (4º semestre).  
+Focado em criar **interfaces modernas, responsivas e performáticas** no ecossistema **JavaScript**.  
+Unindo **maturidade profissional** e **resolução de problemas** para entregar experiências digitais bem construídas.
+
+---
+
+#### Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+#### Projetos em Destaque
+
+| PopInfo | Portfolio |
+| :---: | :---: |
+| Centralização de serviços socioassistenciais | Vitrine técnica e estética |
+| [Explorar Repositório](https://github.com/Alan-Viana/popinfov2) | [Explorar Repositório](https://github.com/Alan-Viana/Portfolio) |
+
+---
+
+</div>
