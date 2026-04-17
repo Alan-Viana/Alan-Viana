@@ -1,6 +1,4 @@
 <div align="center">
-
-# Alan Viana
 ### Junior Front-End Developer | Bacharelando em TI @ UNIVESP
 
 <p align="center">
