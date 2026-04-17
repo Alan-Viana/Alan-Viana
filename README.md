@@ -1,4 +1,6 @@
 <div align="center">
+
+# Alan Viana
 ### Junior Front-End Developer | Bacharelando em TI @ UNIVESP
 
 <p align="center">
@@ -10,7 +12,7 @@
 #### Sobre mim
 
 Bacharelando em **Tecnologia da Informação pela UNIVESP** (4º semestre).  
-Focado em criar **interfaces modernas, responsivas e performáticas** no ecossistema **JavaScript**.  
+Focado em criar interfaces modernas, responsivas e performáticas no ecossistema **JavaScript**.  
 Unindo **maturidade profissional** e **resolução de problemas** para entregar experiências digitais bem construídas.
 
 ---
