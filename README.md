@@ -10,7 +10,7 @@
 
 #### Sobre mim
 
-Bacharelando em **Tecnologia da Informação pela UNIVESP** (4º semestre).  
+Bacharelando em **Tecnologia da Informação pela UNIVESP** (5º semestre).  
 Focado em criar interfaces modernas, responsivas e performáticas no ecossistema **JavaScript**.  
 Unindo **maturidade profissional** e **resolução de problemas** para entregar experiências digitais bem construídas.
 
